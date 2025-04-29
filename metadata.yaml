@@ -1,5 +1,8 @@
 _repo: Lord-Lister-No-0319-Het-komplot-tegen-Judenitsch_75649
 _version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   authors:
   - agent_name: Matull, Kurt
@@ -27,6 +30,8 @@ creator:
     wikipedia: https://nl.wikipedia.org/wiki/Felix_Hageman
 description: 'Reading ease score: 68.8 (8th & 9th grade). Neither easy nor difficult
   to read.'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/75649#Lord-Lister-No-0319-Het-komplot-tegen-Judenitsch
 gutenberg_bookshelf:
 - 'Browsing: History - Warfare'
 - 'Browsing: Fiction'
